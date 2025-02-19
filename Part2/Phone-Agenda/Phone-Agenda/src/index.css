@@ -1,0 +1,27 @@
+.success, .error, .replace {
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.replace {
+    color: blue;
+    background: lightblue;
+    border-style: solid;
+    border-color: blue;
+}
+
+.success {
+    color: green;
+    background: lightgrey;  
+    border-style: solid;
+    border-color: green;
+}
+
+.error {
+    color: red;
+    background: lightpink;
+    border-style: solid;
+    border-color: red;
+}
